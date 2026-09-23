@@ -4,6 +4,13 @@
 	<name>04-EJE PROYECTO.kmz</name>
 	<open>1</open>
 	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1327"></atom:link>
+	<Style id="icon-1532-0F9D58-labelson">
+		<IconStyle>
+			<Icon>
+				<href>C:/Users/Equipo 63/AppData/LocalLow/Google/GoogleEarth/icon-2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
 	<Style id="line13">
 		<LineStyle>
 			<color>ff0000ff</color>
@@ -12,13 +19,1072 @@
 	<Style id="point16">
 		<IconStyle>
 			<scale>0</scale>
-			<Icon></Icon>
+			<Icon>
+			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<color>ffffffff</color>
-			<scale>1</scale>
 		</LabelStyle>
 	</Style>
+	<StyleMap id="poly-0F9D58-3201-110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-0F9D58-3201-110-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-0F9D58-3201-110-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="poly-0F9D58-3201-110-highlight">
+		<LineStyle>
+			<color>ff589d0f</color>
+			<width>4.8015</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6e589d0f</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-0F9D58-3201-110-normal">
+		<LineStyle>
+			<color>ff589d0f</color>
+			<width>3.201</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6e589d0f</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>27 ESTACIONES NUEVAS</name>
+		<Placemark>
+			<name>02-La Quebrada-EXISTENTE</name>
+			<description><![CDATA[Descripción: <br>id: 2<br>Estaciones: 2<br>X: 480293.927100<br>Y: 2166364.476000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>2</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>2</value>
+				</Data>
+				<Data name="X">
+					<value>480293.927100</value>
+				</Data>
+				<Data name="Y">
+					<value>2166364.476000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.18814500000001,19.591908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>03-Pensamiento</name>
+			<description><![CDATA[Descripción: <br>id: 3<br>Estaciones: 3<br>X: 479991.583600<br>Y: 2166081.046000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>3</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>3</value>
+				</Data>
+				<Data name="X">
+					<value>479991.583600</value>
+				</Data>
+				<Data name="Y">
+					<value>2166081.046000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.19003499999999,19.590163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>04-Azalea</name>
+			<description><![CDATA[Descripción: <br>id: 4<br>Estaciones: 4<br>X: 479546.539300<br>Y: 2165835.784000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>4</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>4</value>
+				</Data>
+				<Data name="X">
+					<value>479546.539300</value>
+				</Data>
+				<Data name="Y">
+					<value>2165835.784000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.195027,19.587401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-Parque Industrial</name>
+			<description><![CDATA[Descripción: <br>id: 5<br>Estaciones: 5<br>X: 479020.414700<br>Y: 2165741.696000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>5</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>5</value>
+				</Data>
+				<Data name="X">
+					<value>479020.414700</value>
+				</Data>
+				<Data name="Y">
+					<value>2165741.696000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.198956,19.586383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>06-Antiguo Camino a Minas</name>
+			<description><![CDATA[Descripción: <br>id: 6<br>Estaciones: 6<br>X: 478748.964000<br>Y: 2165473.759000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>6</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>6</value>
+				</Data>
+				<Data name="X">
+					<value>478748.964000</value>
+				</Data>
+				<Data name="Y">
+					<value>2165473.759000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20252499999998,19.584717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>07-Melchor Ocampo</name>
+			<description><![CDATA[Descripción: <br>id: 7<br>Estaciones: 7<br>X: 478710.109100<br>Y: 2165218.531000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>7</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>7</value>
+				</Data>
+				<Data name="X">
+					<value>478710.109100</value>
+				</Data>
+				<Data name="Y">
+					<value>2165218.531000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.203057,19.581531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>08-Lago de Guadalupe</name>
+			<description><![CDATA[Descripción: <br>id: 8<br>Estaciones: 8<br>X: 478655.256600<br>Y: 2164908.208000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>8</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>8</value>
+				</Data>
+				<Data name="X">
+					<value>478655.256600</value>
+				</Data>
+				<Data name="Y">
+					<value>2164908.208000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20340199999998,19.578488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>09-CRIT</name>
+			<description><![CDATA[Descripción: <br>id: 9<br>Estaciones: 9<br>X: 478781.947800<br>Y: 2163999.033000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>9</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>9</value>
+				</Data>
+				<Data name="X">
+					<value>478781.947800</value>
+				</Data>
+				<Data name="Y">
+					<value>2163999.033000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20227199999999,19.571059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10-Camino San Mateo</name>
+			<description><![CDATA[Descripción: <br>id: 10<br>Estaciones: 10<br>X: 478807.065600<br>Y: 2163683.210000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>10</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>10</value>
+				</Data>
+				<Data name="X">
+					<value>478807.065600</value>
+				</Data>
+				<Data name="Y">
+					<value>2163683.210000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20205799999999,19.568264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-Orquideas</name>
+			<description><![CDATA[Descripción: <br>id: 11<br>Estaciones: 11<br>X: 478723.810200<br>Y: 2163338.685000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>11</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>11</value>
+				</Data>
+				<Data name="X">
+					<value>478723.810200</value>
+				</Data>
+				<Data name="Y">
+					<value>2163338.685000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.202696,19.565172,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12-Tequexquinahuac</name>
+			<description><![CDATA[Descripción: <br>id: 12<br>Estaciones: 12<br>X: 478680.666400<br>Y: 2162964.014000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>12</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>12</value>
+				</Data>
+				<Data name="X">
+					<value>478680.666400</value>
+				</Data>
+				<Data name="Y">
+					<value>2162964.014000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20328000000001,19.560633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13-Jose Ma. Morelos</name>
+			<description><![CDATA[Descripción: <br>id: 13<br>Estaciones: 13<br>X: 478630.848500<br>Y: 2162605.815000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>13</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>13</value>
+				</Data>
+				<Data name="X">
+					<value>478630.848500</value>
+				</Data>
+				<Data name="Y">
+					<value>2162605.815000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20372900000001,19.558088,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14-Toltecas</name>
+			<description><![CDATA[Descripción: <br>id: 14<br>Estaciones: 14<br>X: 478554.101300<br>Y: 2162381.002000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>14</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>14</value>
+				</Data>
+				<Data name="X">
+					<value>478554.101300</value>
+				</Data>
+				<Data name="Y">
+					<value>2162381.002000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20437800000001,19.556273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15-Henry Ford</name>
+			<description><![CDATA[Descripción: <br>id: 15<br>Estaciones: 15<br>X: 478460.075300<br>Y: 2162098.870000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>15</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>15</value>
+				</Data>
+				<Data name="X">
+					<value>478460.075300</value>
+				</Data>
+				<Data name="Y">
+					<value>2162098.870000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20522200000002,19.553888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16-De los Jinetes</name>
+			<description><![CDATA[Descripción: <br>id: 16<br>Estaciones: 16<br>X: 478355.145800<br>Y: 2161762.262000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>16</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>16</value>
+				</Data>
+				<Data name="X">
+					<value>478355.145800</value>
+				</Data>
+				<Data name="Y">
+					<value>2161762.262000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.206514,19.549743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17-Filiberto Gómez</name>
+			<description><![CDATA[Descripción: <br>id: 17<br>Estaciones: 17<br>X: 478272.952500<br>Y: 2160992.569000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>17</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>17</value>
+				</Data>
+				<Data name="X">
+					<value>478272.952500</value>
+				</Data>
+				<Data name="Y">
+					<value>2160992.569000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.207066,19.544228,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19-Recursos Hidráulicos</name>
+			<description><![CDATA[Descripción: <br>id: 19<br>Estaciones: 19<br>X: 478191.884000<br>Y: 2159842.036000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>19</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>19</value>
+				</Data>
+				<Data name="X">
+					<value>478191.884000</value>
+				</Data>
+				<Data name="Y">
+					<value>2159842.036000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20793600000002,19.532555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20-Galeana</name>
+			<description><![CDATA[Descripción: <br>id: 20<br>Estaciones: 20<br>X: 478162.736900<br>Y: 2159460.624000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>20</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>20</value>
+				</Data>
+				<Data name="X">
+					<value>478162.736900</value>
+				</Data>
+				<Data name="Y">
+					<value>2159460.624000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20811500000002,19.529988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22-Abraham Lincoln</name>
+			<description><![CDATA[Descripción: <br>id: 22<br>Estaciones: 22<br>X: 478024.653500<br>Y: 2158874.348000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>22</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>22</value>
+				</Data>
+				<Data name="X">
+					<value>478024.653500</value>
+				</Data>
+				<Data name="Y">
+					<value>2158874.348000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20913,19.525049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23-Viveros de la Colina</name>
+			<description><![CDATA[Descripción: <br>id: 23<br>Estaciones: 23<br>X: 477850.930100<br>Y: 2158601.768000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>23</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>23</value>
+				</Data>
+				<Data name="X">
+					<value>477850.930100</value>
+				</Data>
+				<Data name="Y">
+					<value>2158601.768000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.21119,19.521889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24-Ignacio Zaragoza</name>
+			<description><![CDATA[Descripción: <br>id: 24<br>Estaciones: 24<br>X: 477487.484900<br>Y: 2158020.025000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>24</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>24</value>
+				</Data>
+				<Data name="X">
+					<value>477487.484900</value>
+				</Data>
+				<Data name="Y">
+					<value>2158020.025000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.214282,19.517119,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25-Santa Mónica</name>
+			<description><![CDATA[Descripción: <br>id: 25<br>Estaciones: 25<br>X: 477267.418900<br>Y: 2157661.946000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>25</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>25</value>
+				</Data>
+				<Data name="X">
+					<value>477267.418900</value>
+				</Data>
+				<Data name="Y">
+					<value>2157661.946000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.216419,19.513905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27-Puente de Vigas</name>
+			<description><![CDATA[Descripción: <br>id: 27<br>Estaciones: 27<br>X: 477659.498900<br>Y: 2157420.329000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>27</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>27</value>
+				</Data>
+				<Data name="X">
+					<value>477659.498900</value>
+				</Data>
+				<Data name="Y">
+					<value>2157420.329000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.213778,19.511883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>28-UMF No. 37</name>
+			<description><![CDATA[Descripción: <br>id: 28<br>Estaciones: 28<br>X: 477928.116700<br>Y: 2157086.028000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>28</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>28</value>
+				</Data>
+				<Data name="X">
+					<value>477928.116700</value>
+				</Data>
+				<Data name="Y">
+					<value>2157086.028000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.208324,19.507317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>01-Lechería-EXISTENTE</name>
+			<description><![CDATA[Descripción: <br>id: 1<br>Estaciones: 1<br>X: 480691.414600<br>Y: 2167068.171000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>1</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>1</value>
+				</Data>
+				<Data name="X">
+					<value>480691.414600</value>
+				</Data>
+				<Data name="Y">
+					<value>2167068.171000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.18435599999999,19.598498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18-Mario Colín</name>
+			<description><![CDATA[Descripción: <br>id: 18<br>Estaciones: 18<br>X: 478247.656500<br>Y: 2160433.094000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>18</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>18</value>
+				</Data>
+				<Data name="X">
+					<value>478247.656500</value>
+				</Data>
+				<Data name="Y">
+					<value>2160433.094000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20733599999998,19.539952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>32-El Rosario</name>
+			<description><![CDATA[Descripción: <br>id: 32<br>Estaciones: 32<br>X: 479029.249300<br>Y: 2156726.615000]]></description>
+			<styleUrl>#icon-1532-0F9D58-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="Descripción">
+				</Data>
+				<Data name="id">
+					<value>32</value>
+				</Data>
+				<Data name="Estaciones">
+					<value>32</value>
+				</Data>
+				<Data name="X">
+					<value>479029.249300</value>
+				</Data>
+				<Data name="Y">
+					<value>2156726.615000</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.20047,19.505911,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>27 HUELLA ESTACIONES NUEVAS</name>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.213909,19.517676,0 -99.213933,19.51769,0 -99.21454300000002,19.516742,0 -99.214518,19.516728,0 -99.213909,19.517676,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.210869,19.522391,0 -99.210894,19.522405,0 -99.211529,19.521413,0 -99.21150400000001,19.521399,0 -99.210869,19.522391,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20881099999998,19.525499,0 -99.20883599999999,19.525513,0 -99.20950499999999,19.524474,0 -99.20948099999998,19.524459,0 -99.20881099999998,19.525499,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.208038,19.530971,0 -99.208066,19.530972,0 -99.20815399999998,19.529757,0 -99.208125,19.529755,0 -99.208038,19.530971,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20788600000002,19.532975,0 -99.207915,19.532977,0 -99.20799900000002,19.531979,0 -99.20797,19.531977,0 -99.20788600000002,19.532975,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20699500000001,19.544764,0 -99.207043,19.544767,0 -99.20710200000001,19.54397,0 -99.207054,19.543967,0 -99.20699500000001,19.544764,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.206324,19.550443,0 -99.206371,19.550453,0 -99.206596,19.549493,0 -99.206549,19.549483,0 -99.206324,19.550443,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.204944,19.554604,0 -99.20499000000001,19.554619,0 -99.20533900000001,19.553626,0 -99.205293,19.553612,0 -99.204944,19.554604,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20429499999999,19.556474,0 -99.204322,19.556482,0 -99.204498,19.555982,0 -99.20447100000001,19.555973,0 -99.20429499999999,19.556474,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20364600000001,19.558283,0 -99.20367299999998,19.558292,0 -99.20385100000001,19.557792,0 -99.203824,19.557783,0 -99.20364600000001,19.558283,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20322400000001,19.561278,0 -99.203253,19.561279,0 -99.20330300000001,19.560426,0 -99.203275,19.560424,0 -99.20322400000001,19.561278,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.19051899999999,19.589773,0 -99.19048599999999,19.589739,0 -99.18967000000001,19.590452,0 -99.18970299999999,19.590486,0 -99.19051899999999,19.589773,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20347400000001,19.578863,0 -99.20352099999999,19.578852,0 -99.20329799999999,19.578026,0 -99.20325100000001,19.578037,0 -99.20347400000001,19.578863,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20229800000001,19.57157,0 -99.202347,19.571566,0 -99.202281,19.570752,0 -99.202265,19.570753,0 -99.20226,19.570699,0 -99.20226300000002,19.570698,0 -99.202245,19.570475,0 -99.20221100000001,19.570478,0 -99.20222800000002,19.570701,0 -99.20229800000001,19.57157,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20205899999999,19.568557,0 -99.202108,19.568554,0 -99.20206,19.567955,0 -99.202011,19.567958,0 -99.20205899999999,19.568557,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20836199999999,19.507624,0 -99.20831800000001,19.507125,0 -99.20827299999999,19.507129,0 -99.20832000000001,19.507627,0 -99.20836199999999,19.507624,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.200378,19.506253,0 -99.20062499999999,19.505491,0 -99.20059399999998,19.505482,0 -99.20034699999999,19.506244,0 -99.200378,19.506253,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20727599999999,19.54004,0 -99.20739399999999,19.540039,0 -99.20739500000002,19.53979,0 -99.20734899999998,19.53979,0 -99.20732099999998,19.53979,0 -99.20727599999999,19.53979,0 -99.20727599999999,19.54004,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20264299999999,19.565283,0 -99.20268900000001,19.565298,0 -99.202935,19.564587,0 -99.20288900000001,19.564573,0 -99.202781,19.564885,0 -99.20264299999999,19.565283,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20317799999999,19.580954,0 -99.20314999999999,19.580948,0 -99.202957,19.581784,0 -99.202972,19.581786,0 -99.20296399999999,19.581826,0 -99.20297699999999,19.581828,0 -99.20317799999999,19.580954,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20297600000001,19.581851,0 -99.202938,19.581845,0 -99.202884,19.582186,0 -99.202922,19.582191,0 -99.20297600000001,19.581851,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.21641099999999,19.513759,0 -99.21627599999999,19.513973,0 -99.21641499999998,19.514052,0 -99.21655000000001,19.513837,0 -99.21641099999999,19.513759,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.214017,19.51204,0 -99.213498,19.511695,0 -99.21347100000001,19.511733,0 -99.213995,19.51207,0 -99.214017,19.51204,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.202501,19.585216,0 -99.202558,19.584836,0 -99.202495,19.584828,0 -99.202479,19.584937,0 -99.202516,19.584942,0 -99.202476,19.585212,0 -99.202501,19.585216,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.20259699999998,19.584506,0 -99.20256899999998,19.584502,0 -99.20261000000001,19.584214,0 -99.20258100000001,19.584211,0 -99.202528,19.58459,0 -99.20258400000002,19.584597,0 -99.20259699999998,19.584506,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.199443,19.586518,0 -99.199448,19.586491,0 -99.19905199999999,19.586417,0 -99.19892699999998,19.586394,0 -99.198869,19.586387,0 -99.198871,19.586364,0 -99.19905300000001,19.586389,0 -99.19945300000001,19.586444,0 -99.199457,19.586417,0 -99.199057,19.586362,0 -99.19890599999999,19.586341,0 -99.19887299999999,19.586337,0 -99.19887299999999,19.586346,0 -99.198638,19.586339,0 -99.198638,19.586366,0 -99.19885600000001,19.586373,0 -99.19885499999998,19.586386,0 -99.19863599999999,19.586369,0 -99.198634,19.586396,0 -99.198922,19.58642,0 -99.199046,19.586444,0 -99.199443,19.586518,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description>_ESTACIONES_MEXIBUS_NUEVAS</description>
+			<styleUrl>#poly-0F9D58-3201-110</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-99.195509,19.587233,0 -99.195488,19.587194,0 -99.195099,19.587387,0 -99.195083,19.587358,0 -99.195503,19.587186,0 -99.19548399999998,19.587145,0 -99.195041,19.587327,0 -99.195033,19.587313,0 -99.194998,19.587327,0 -99.19485799999998,19.587385,0 -99.19448699999998,19.587537,0 -99.194498,19.587562,0 -99.195009,19.587353,0 -99.19501499999998,19.587363,0 -99.19504999999998,19.587349,0 -99.195086,19.587413,0 -99.194919,19.587496,0 -99.19456099999999,19.587673,0 -99.19457400000002,19.587697,0 -99.19493199999999,19.58752,0 -99.19506799999999,19.587452,0 -99.195509,19.587233,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
 	<Placemark>
 		<name>eje de proyecto</name>
 		<description>_EJE_DE_PROYECTO_VF</description>
